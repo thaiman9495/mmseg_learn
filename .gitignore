@@ -1,4 +1,6 @@
 .vscode/
 mmsegmentation-main/
-# 
-# 
+mmdeploy-main/
+data/
+pretrained_models/
+temp/
